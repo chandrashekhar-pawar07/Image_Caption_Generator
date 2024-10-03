@@ -51,8 +51,3 @@ For Caption Generation i used Gready Search approach, you can use Beam search ap
 ### Results
 <img src="https://github.com/VinitSR7/Image-Caption-Generation/blob/master/result.jpg?raw=true"> </img> <br>
 
-# Research papers and resources to follow
-> 1. https://arxiv.org/pdf/1411.4555.pdf
-> 2. https://arxiv.org/pdf/1412.2306.pdf
-> 3. https://www.youtube.com/watch?v=yCC09vCHzF8 (Video lecture by author of paper 2)
-> 4. https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
